@@ -10,3 +10,5 @@ Esta es la primera linea desde terminal enviando a web
 Esta es la segunda linea desde terminan enviada a github.com web
 
 Esta linea representa el primer commit con interfaz visual en desktop
+
+Esta linea representa el primer commit hecho en terminar en la carpeta GIt para ejercitar git pull en GitHub Desktop
