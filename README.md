@@ -14,3 +14,5 @@ Esta linea representa el primer commit con interfaz visual en desktop
 Esta linea representa el primer commit hecho en terminar en la carpeta GIt para ejercitar git pull en GitHub Desktop
 
 Esta linea representa el uso de SourceControl para manejo de repositorios con Visual Studio Code
+
+Esta linea representa el segunda commit hecho desde Visual Studio Code desde el Source Control 
